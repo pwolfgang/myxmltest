@@ -1,4 +1,4 @@
-package edu.temple.cis.wolfgang.myxmltest;
+package edu.templecla.policydb.myxmltest;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;

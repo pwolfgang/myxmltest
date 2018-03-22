@@ -1,4 +1,4 @@
-package edu.temple.cis.wolfgang.myxmltest;
+package edu.templecla.policydb.myxmltest;
 
 import java.io.Reader;
 import java.io.StringReader;

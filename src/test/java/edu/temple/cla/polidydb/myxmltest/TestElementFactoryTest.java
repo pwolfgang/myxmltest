@@ -2,8 +2,9 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package edu.temple.cis.wolfgang.myxmltest;
+package edu.temple.cla.polidydb.myxmltest;
 
+import edu.templecla.policydb.myxmltest.TestElementFactory;
 import org.junit.Test;
 import static org.junit.Assert.*;
 import org.w3c.dom.Element;
